@@ -1,7 +1,0 @@
-# Cloudflare Pages / Netlify 공통 헤더 설정
-/*
-  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
-  Referrer-Policy: no-referrer
-  X-Frame-Options: SAMEORIGIN
-  X-Content-Type-Options: nosniff
-  Cache-Control: no-store, max-age=0
